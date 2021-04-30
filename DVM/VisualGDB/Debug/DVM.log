@@ -1,0 +1,5 @@
+﻿  main.c
+  Linking ../VisualGDB/Debug/DVM...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 15KB out of 256KB (6%) [-32]
+  Used SRAM: 268 bytes out of 48KB (0%)
